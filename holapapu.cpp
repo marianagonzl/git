@@ -9,6 +9,6 @@ int main()
         cin >> edad;
         cout << edad;
 
-
+cout << "onichan" << endl;
     return 0;
 }
